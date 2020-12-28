@@ -51,3 +51,4 @@ Guidance by Avinash Navlani
 
 1. Quantitatice system
 2. Quant-text hybrid system
+
