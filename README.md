@@ -5,10 +5,12 @@ Notebook containing a detailed exploratory data analysis and a NLP vector based 
 Dataset: https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney / Guidance by Avinash Navlani
 
 ## 1. Dataset Exploration
+
 ![1](https://user-images.githubusercontent.com/62403518/103226745-13d4c800-492d-11eb-9cd3-1589d7b69c4a.png)
 
 
 ## 2. Handling Missing Values
+
 1. Drop columns with >50% NaN values
 2. Drop NaN rows
 3. Reset index
