@@ -28,9 +28,14 @@ Guidance by Avinash Navlani
 
 # 2. Handling Missing Values
 
+1. Drop columns with >50% NaN values
+2. Drop NaN rows
+3. Reset index
+4. Convert data types
+
 # 3. Exploratory Data Analysis
 
-**Statistical exploration will include:**
+**Statistical exploration includes:**
 
 1. Distribution plots
 2. Distribution of movies on each streaming platform
@@ -42,3 +47,6 @@ Guidance by Avinash Navlani
 5. Runtime analysis per platform and age group
 
 # 4. Recommendations Systems
+
+1. Quantitatice system
+2. Quant-text hybrid system
