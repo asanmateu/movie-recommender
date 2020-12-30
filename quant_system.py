@@ -28,7 +28,7 @@ df.reset_index(inplace=True, drop=True)
 df.ID = df.ID.astype('object')
 df.Year = df.Year.astype('object')
 
-# PREPROCESSING ////
+# PREPROCESSING //// 
 
 # Select the numerical variable
 num_df = df.select_dtypes(include=['float64', 'int64'])
