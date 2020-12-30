@@ -57,8 +57,8 @@ Dataset: https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-
 
 ## 4. Recommendations Systems
 
-1. Quantitatice system
-2. Quant-text hybrid system
+1. Quant model
+2. Quant-text hybrid model
 
 ![14](https://user-images.githubusercontent.com/62403518/103227330-6498f080-492e-11eb-9262-029cf6c9154b.png)
 
