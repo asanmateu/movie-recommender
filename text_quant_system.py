@@ -1,4 +1,4 @@
-# HYBRID SYSTEM ////
+# HYBRID SYSTEM
 
 # Import libraries
 import numpy as np
