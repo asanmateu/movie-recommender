@@ -80,7 +80,7 @@ def preprocess(df):
 mat = preprocess(df)
 
 
-# RECOMMENDATIONS
+# RECOMMENDATIONS ////
 def give_recommendation(title, sig=cos_sim):
     """Takes a movie title and similarity score and returns a top 10 list of recommended movies from the dataset"""
 
