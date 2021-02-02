@@ -1,4 +1,4 @@
-# Movie Recommendations System
+# Movie Recommendations Engine
 
 A detailed exploratory data analysis and a NLP vector based recommendations system with Python3 and Scikit-Learn using a Kaggle dataset containing movies hosted by Netflix, Hulu, Prime Video, and Disney+.
 
